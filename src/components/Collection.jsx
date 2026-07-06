@@ -1,4 +1,4 @@
-import collection from "../assets/collection.jpg"
+import collection from "../assets/collection.JPG"
 import { GiPolarStar } from "react-icons/gi";
 import Slider from "./Slider";
 

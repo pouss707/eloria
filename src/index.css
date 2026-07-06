@@ -1,17 +1,21 @@
-@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
 
+@import "tailwindcss";
+
 body {
   @apply bg-gray-100 text-gray-900;
 }
+
 h6 {
   font-family: 'Cormorant Garamond', serif;
 }
+
 h1 {
-  font-family: 'Aboreto',;
+  font-family: 'Aboreto', serif;
 }
+
 h5 {
   font-family: 'Cardo', serif;
 }
