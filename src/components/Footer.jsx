@@ -11,7 +11,7 @@ import { FaRegCopyright } from "react-icons/fa";
 
 function Footer() {
     return (
-        <div className="w-screen h-100 bg-black flex flex-col justify-between ">
+        <div id="contact" className="w-screen h-100 bg-black flex flex-col justify-between ">
             <div className="flex items-center justify-center w-screen mt-4">
                 <div className="w-screen h-0.5 bg-[#D4AF37]/30"></div>
 
