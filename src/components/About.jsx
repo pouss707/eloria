@@ -1,4 +1,4 @@
-import about from "../assets/about.jpg"
+import about from "../assets/about.JPG"
 import { GiPolarStar } from "react-icons/gi";
 import aboutimg from "../assets/aboutimg.jpg";
 
